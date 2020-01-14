@@ -3,7 +3,7 @@ This is a singly linked ilst program in C language.
 
 Getting started:
 operation list...
-Insertin--
+Insertion--
 Insert in beginning,
 Insert in between,
 Insert in end.
