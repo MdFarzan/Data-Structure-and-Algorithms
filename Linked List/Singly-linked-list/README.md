@@ -1,10 +1,11 @@
 # Singly Linked list
 This is a singly linked ilst program in C language.
 
-##Getting started:
+## Getting started:
 Please compile it with the Turbo compiler or other compiler (other compiler may need some changes).
 
-##operation list:
+## operation list:
+
 ### Insertion--
 Insert in beginning,
 Insert in between,
